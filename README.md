@@ -99,7 +99,7 @@ https://github.com/mohitparnami18/ML-Assignment2-CRM_Sales_Forecasting_Assignmen
 
 **Replace this line with the final Streamlit Community Cloud URL after deployment.**
 
-`ADD_STREAMLIT_APP_URL_HERE`
+https://ml-crmsalesforecastingassignment.streamlit.app/
 
 ---
 
