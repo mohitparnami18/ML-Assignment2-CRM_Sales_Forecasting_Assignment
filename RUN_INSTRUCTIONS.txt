@@ -1,0 +1,13 @@
+1. Put the supplied CSV files into data/:
+   account.csv, contact.csv, lead.csv, opportunity.csv, order.csv, user.csv
+
+2. Run:
+   cd model
+   python train_and_save.py
+
+3. This creates test_data.csv, model_comparison.csv and six saved models.
+
+4. Run:
+   streamlit run app.py
+
+5. Upload test_data.csv in the Streamlit app and verify all six models.
