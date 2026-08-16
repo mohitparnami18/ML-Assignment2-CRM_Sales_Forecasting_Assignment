@@ -207,11 +207,11 @@ Gradient Boosting is selected as the overall winner based on the highest test ac
 
 ## GitHub Repository Link
 
-**Add your GitHub repository URL here before submission.**
+https://github.com/mohitparnami18/ML-Assignment2-CRM_Sales_Forecasting_Assignment
 
 ## Live Streamlit App Link
 
-**Add your Streamlit Community Cloud URL here before submission.**
+https://ml-assignment2-crmsalesforecastingassignment.streamlit.app/
 
 
 ## Troubleshooting: numeric/object dtype error
